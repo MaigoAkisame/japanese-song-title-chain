@@ -1,0 +1,6 @@
+data/*
+!data/songs.jsonl
+!data/graph_data.pkl
+!data/weak_comps.png
+!data/strong_comps.png
+!data/longest_paths.png
